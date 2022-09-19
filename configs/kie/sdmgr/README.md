@@ -39,3 +39,7 @@ Key information extraction from document images is of paramount importance in of
       primaryClass={cs.CV}
 }
 ```
+
+## Third-party implementation
+
+[SDMGR implementation with PaddleClas](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/algorithm_sdmgr_en.md)
